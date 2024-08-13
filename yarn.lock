@@ -2644,8 +2644,7 @@
     "schema-utils" "^4.0.0"
 
 "babel-plugin-import-glob-meta@github:crowdbotics/babel-plugin-import-glob-meta":
-  "integrity" "sha512-cdMXe55VK6t4DP8B4zL2mOC75kREVyhGhBmuAfsYLHCnlBUBKzI7NKsDf8DJfqV9i01EUt7hrG4XAC/XcXFpRQ=="
-  "resolved" "https://codeload.github.com/crowdbotics/babel-plugin-import-glob-meta/tar.gz/fdffe71d6c97b2c1fc7cdffbaf15dbe1d023dfa5"
+  "resolved" "git+ssh://git@github.com/crowdbotics/babel-plugin-import-glob-meta.git#fdffe71d6c97b2c1fc7cdffbaf15dbe1d023dfa5"
   "version" "1.0.0"
   dependencies:
     "glob" "^7.1.7"
@@ -3339,6 +3338,11 @@
   "integrity" "sha512-XgZ0pFcakEUlbwQEVNg3+QAis1FyTL3Qel9FYy8pSkQqoG3PNoT0bOCQtOXcOkur21r2Eq2kI+IE+gsmAEVlYw=="
   "resolved" "https://registry.npmjs.org/copy-descriptor/-/copy-descriptor-0.1.1.tgz"
   "version" "0.1.1"
+
+"cordova-nfc@*":
+  "integrity" "sha512-xi7w61KdhlpGAJ19uMwnj0m1FRzIkV6wA6fcV7PG4Tsw9KmSfknGrBfSehw8IFsSq+cR9PfEJoWi1h2hS5L+4w=="
+  "resolved" "https://registry.npmjs.org/cordova-nfc/-/cordova-nfc-0.0.1.tgz"
+  "version" "0.0.1"
 
 "cordova-plugin-libre@*":
   "integrity" "sha512-XsAi0PWHF/dEyUdSSoelJBYqYFvYQNSV6FXm5TUro3RyLQbFVIdZ97zGyvwhJQFuJZ4uH4mNNUnxHVgkJzSWEQ=="
