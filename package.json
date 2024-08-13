@@ -12,6 +12,7 @@
     "web:build": "./node_modules/.bin/webpack --config ./webpack.config.js --color --mode production"
   },
   "dependencies": {
+    "cordova-plugin-librarytag": "*",
     "cordova-nfc": "*",
     "cordova-plugin-libre": "*",
     "react": "18.2.0",

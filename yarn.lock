@@ -3344,6 +3344,11 @@
   "resolved" "https://registry.npmjs.org/cordova-nfc/-/cordova-nfc-0.0.1.tgz"
   "version" "0.0.1"
 
+"cordova-plugin-librarytag@*":
+  "integrity" "sha512-OfdVXyla+OIZHoCpFWaVVLbNNulZ5I66Tej1sOr0o9CYIz1CvEuaYkInUbdqISnxv2XmJmueo7Y2xv/giQ2zoA=="
+  "resolved" "https://registry.npmjs.org/cordova-plugin-librarytag/-/cordova-plugin-librarytag-0.0.1.tgz"
+  "version" "0.0.1"
+
 "cordova-plugin-libre@*":
   "integrity" "sha512-XsAi0PWHF/dEyUdSSoelJBYqYFvYQNSV6FXm5TUro3RyLQbFVIdZ97zGyvwhJQFuJZ4uH4mNNUnxHVgkJzSWEQ=="
   "resolved" "https://registry.npmjs.org/cordova-plugin-libre/-/cordova-plugin-libre-0.0.5.tgz"
